@@ -14,9 +14,11 @@ XMRig is a high performance, open source, cross platform RandomX, KawPow, Crypto
 `git clone https://github.com/DOG248/xmrig.git`
 
 **And making the CMake Files**
+
 `mkdir -p build && cd build && cmake ..`
 
 **Compile!**
+
 `make`
 
 ## Usage
